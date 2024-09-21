@@ -11,3 +11,18 @@ header a{
   text-decoration: none;
   color: black;
 }
+
+.site-header{
+  background-image: url(realEstate-img-main/header.jpg);
+  color: white;
+  text-align: center;
+  background-size: cover;
+  font-size: 18px;
+  font-family: arial;
+  height: 375px;
+  padding-top: 5px;
+}
+
+.header-nav a{
+  color: white;
+}
