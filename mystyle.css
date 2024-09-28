@@ -300,3 +300,60 @@ footer{
 .contact-h2{
   text-align: center;
 }
+
+/*About*/
+.about-header{
+  background-color: orange;
+  color: black;
+  height: 200px;
+}
+
+.about-header a{
+  color: black;
+}
+
+
+.about-main{
+  display: flex;
+  align-items: center;
+}
+
+.about-text{
+  padding: 10px;
+  margin-left: auto;
+  margin-right: auto;
+  width: 90%;
+
+}
+
+.about-text p{
+  margin-bottom: 10px;
+}
+
+.about-img{
+  padding: 10px;
+  height: 70%;
+  margin-top: 20px;
+}
+
+/*Blog*/
+
+.blog-container{
+  display: flex;
+}
+
+.blog-item{
+  background-color: lightgray;
+  margin-bottom: 20px;
+  margin-right: 20px;
+  margin-left: 20px;
+}
+
+.blog-item-text{
+  padding: 5px;
+}
+
+.blog-text{
+  text-align: center;
+  margin-top: 20px;
+}
